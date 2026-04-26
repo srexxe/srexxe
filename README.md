@@ -1,31 +1,6 @@
-<!-- Header SVG (renderiza siempre en GitHub) -->
 <div align="center">
-
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#161b22"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6e40c9;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#6e40c9;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#00c9a7;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#00c9a7;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="160" fill="url(#bg)" rx="12"/>
-  <rect x="80" y="140" width="640" height="2" fill="url(#line)" rx="1"/>
-  <circle cx="60" cy="40" r="2" fill="#6e40c9" opacity="0.5"/>
-  <circle cx="740" cy="120" r="2" fill="#00c9a7" opacity="0.5"/>
-  <circle cx="700" cy="35" r="1.5" fill="#6e40c9" opacity="0.4"/>
-  <circle cx="100" cy="125" r="1.5" fill="#00c9a7" opacity="0.4"/>
-  <text x="400" y="70" font-family="monospace" font-size="36" font-weight="700" fill="#e6edf3" text-anchor="middle">Mr. Betho</text>
-  <text x="400" y="105" font-family="monospace" font-size="13" fill="#6e40c9" text-anchor="middle">Ing. en Sistemas Computacionales · Dev · IA</text>
-  <text x="400" y="128" font-family="monospace" font-size="11" fill="#4a5568" text-anchor="middle">"El código es solo el reflejo de lo que la mente imagina."</text>
-</svg>
-
-<br/>
+  <img src="./banner.svg" alt="Mr. Betho Banner" width="800"/>
+  <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Apasionado+por+IA%2C+Web+y+Ciberseguridad;Estudiante+de+Ing.+en+Sistemas+Computacionales;Nunca+dejes+de+aprender+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
@@ -127,20 +102,5 @@ class MrBetho:
 <div align="center">
 
 *`// "Nunca dejes de aprender, el bug de hoy es la lección de mañana." 🧩`*
-
-<br/>
-
-<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00c9a7;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#00c9a7;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#6e40c9;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#6e40c9;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect x="80" y="18" width="640" height="2" fill="url(#footer)" rx="1"/>
-  <text x="400" y="45" font-family="monospace" font-size="11" fill="#4a5568" text-anchor="middle">srexxe · GitHub Profile</text>
-</svg>
 
 </div>
