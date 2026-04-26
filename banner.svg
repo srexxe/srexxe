@@ -1,0 +1,54 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6e40c9" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#6e40c9" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#00c9a7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00c9a7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="800" height="160" fill="url(#bg)" rx="14"/>
+
+  <!-- Puntos decorativos -->
+  <circle cx="48"  cy="38"  r="2.5" fill="#6e40c9" opacity="0.6"/>
+  <circle cx="72"  cy="55"  r="1.5" fill="#6e40c9" opacity="0.3"/>
+  <circle cx="752" cy="38"  r="2.5" fill="#00c9a7" opacity="0.6"/>
+  <circle cx="728" cy="55"  r="1.5" fill="#00c9a7" opacity="0.3"/>
+  <circle cx="48"  cy="122" r="1.5" fill="#00c9a7" opacity="0.3"/>
+  <circle cx="752" cy="122" r="1.5" fill="#6e40c9" opacity="0.3"/>
+
+  <!-- Grid lines sutiles -->
+  <line x1="0" y1="80" x2="160" y2="80" stroke="#6e40c9" stroke-width="0.5" opacity="0.15"/>
+  <line x1="640" y1="80" x2="800" y2="80" stroke="#00c9a7" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Nombre principal con gradiente simulado (dos capas) -->
+  <text x="400" y="68" font-family="'Courier New', monospace" font-size="40" font-weight="700"
+        fill="#c084fc" text-anchor="middle" opacity="0.15" dy="3">Mr. Betho</text>
+  <text x="400" y="68" font-family="'Courier New', monospace" font-size="40" font-weight="700"
+        fill="#e6edf3" text-anchor="middle">Mr. Betho</text>
+
+  <!-- Subtítulo -->
+  <text x="400" y="100" font-family="'Courier New', monospace" font-size="13"
+        fill="#6e40c9" text-anchor="middle" letter-spacing="1">
+    Ing. en Sistemas Computacionales · Dev · IA
+  </text>
+
+  <!-- Frase -->
+  <text x="400" y="122" font-family="'Courier New', monospace" font-size="11"
+        fill="#484f58" text-anchor="middle">
+    "El código es solo el reflejo de lo que la mente imagina."
+  </text>
+
+  <!-- Línea inferior degradada -->
+  <rect x="80" y="142" width="640" height="2" fill="url(#line)" rx="1"/>
+</svg>
