@@ -1,19 +1,39 @@
-<!-- Header Banner -->
+<!-- Header SVG (renderiza siempre en GitHub) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c9a7&height=180&section=header&text=Mr.%20Betho&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Dev%20%26%20IA&descAlignY=55&descSize=14" alt="banner" width="100%">
-</div>
+
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6e40c9;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#6e40c9;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#00c9a7;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00c9a7;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg)" rx="12"/>
+  <rect x="80" y="140" width="640" height="2" fill="url(#line)" rx="1"/>
+  <circle cx="60" cy="40" r="2" fill="#6e40c9" opacity="0.5"/>
+  <circle cx="740" cy="120" r="2" fill="#00c9a7" opacity="0.5"/>
+  <circle cx="700" cy="35" r="1.5" fill="#6e40c9" opacity="0.4"/>
+  <circle cx="100" cy="125" r="1.5" fill="#00c9a7" opacity="0.4"/>
+  <text x="400" y="70" font-family="monospace" font-size="36" font-weight="700" fill="#e6edf3" text-anchor="middle">Mr. Betho</text>
+  <text x="400" y="105" font-family="monospace" font-size="13" fill="#6e40c9" text-anchor="middle">Ing. en Sistemas Computacionales · Dev · IA</text>
+  <text x="400" y="128" font-family="monospace" font-size="11" fill="#4a5568" text-anchor="middle">"El código es solo el reflejo de lo que la mente imagina."</text>
+</svg>
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Apasionado+por+IA%2C+Web+y+Ciberseguridad;Estudiante+de+Ing.+en+Sistemas+Computacionales;Nunca+dejes+de+aprender+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=480&lines=%22El+c%C3%B3digo+es+el+reflejo+de+lo+que+la+mente+imagina.%22;Estudiante+de+Ing.+en+Sistemas+Computacionales;Apasionado+por+IA%2C+Web+y+tecnolog%C3%ADas+emergentes.)](https://git.io/typing-svg)
+<br/>
 
-  <br/>
-
-  ![Status](https://img.shields.io/badge/Estado-Disponible-00c9a7?style=flat-square&labelColor=0d1117)
-  ![Location](https://img.shields.io/badge/📍-México-6e40c9?style=flat-square&labelColor=0d1117)
-  ![Student](https://img.shields.io/badge/🎓-Ing.%20Sistemas-58a6ff?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Estado-Disponible-00c9a7?style=flat-square&labelColor=161b22)
+![Location](https://img.shields.io/badge/📍-México-6e40c9?style=flat-square&labelColor=161b22)
+![Student](https://img.shields.io/badge/🎓-Ing.%20Sistemas-58a6ff?style=flat-square&labelColor=161b22)
 
 </div>
 
@@ -25,11 +45,11 @@ Apasionado por la **inteligencia artificial**, el **desarrollo web** y las **tec
 
 ```python
 class MrBetho:
-    nombre     = "Betho"
-    rol        = "Estudiante de Ing. en Sistemas"
-    intereses  = ["IA", "Desarrollo Web", "Ciberseguridad", "Open Source"]
+    nombre      = "Betho"
+    rol         = "Estudiante de Ing. en Sistemas"
+    intereses   = ["IA", "Desarrollo Web", "Ciberseguridad", "Open Source"]
     aprendiendo = ["Node.js", "Vue.js"]
-    meta       = "Construir tecnología con propósito."
+    meta        = "Construir tecnología con propósito."
 ```
 
 ---
@@ -44,7 +64,7 @@ class MrBetho:
 
 | Frontend |
 |:--------:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 </div>
 
@@ -108,6 +128,19 @@ class MrBetho:
 
 *`// "Nunca dejes de aprender, el bug de hoy es la lección de mañana." 🧩`*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:6e40c9&height=100&section=footer" alt="footer" width="100%">
+<br/>
+
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00c9a7;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00c9a7;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#6e40c9;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#6e40c9;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="18" width="640" height="2" fill="url(#footer)" rx="1"/>
+  <text x="400" y="45" font-family="monospace" font-size="11" fill="#4a5568" text-anchor="middle">srexxe · GitHub Profile</text>
+</svg>
 
 </div>
