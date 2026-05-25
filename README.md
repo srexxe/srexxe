@@ -103,7 +103,6 @@ class SrExe:
 
 <div align="center">
 
-<!-- PROJECT 1 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -243,7 +242,7 @@ Proyecto full stack completo: frontend moderno con Vue.js conectado a un backend
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srexxe&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=EC4899&currStreakLabel=38BDF8&sideNums=C9D1D9&currStreakNum=ffffff&dates=6B7280&sideLabels=9D4EDD" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=srexxe&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=EC4899&currStreakLabel=38BDF8&sideNums=C9D1D9&currStreakNum=ffffff&dates=6B7280&sideLabels=9D4EDD" width="70%" />
 
 </div>
 
