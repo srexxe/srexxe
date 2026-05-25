@@ -1,106 +1,146 @@
 <div align="center">
-  <img src="./banner.svg" alt="Mr. Betho Banner" width="800"/>
-  <br/>
+  <img src="./banner.svg" alt="Mr. Betho Banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Apasionado+por+IA%2C+Web+y+Ciberseguridad;Estudiante+de+Ing.+en+Sistemas+Computacionales;Nunca+dejes+de+aprender+%F0%9F%A7%A9)](https://git.io/typing-svg)
+  <h1>¡Hola! Soy Betho 👋</h1>
+  <p>
+    <b>Estudiante de Ingeniería en Sistemas</b> · IA · Web · Ciberseguridad · Open Source
+  </p>
 
-<br/>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=700&lines=Construyendo+tecnolog%C3%ADa+con+prop%C3%B3sito;Apasionado+por+la+IA%2C+el+desarrollo+web+y+la+ciberseguridad;Aprendiendo%2C+experimentando+y+compartiendo+en+cada+proyecto" alt="Typing SVG" />
+  </p>
 
-![Status](https://img.shields.io/badge/Estado-Disponible-00c9a7?style=flat-square&labelColor=161b22)
-![Location](https://img.shields.io/badge/📍-México-6e40c9?style=flat-square&labelColor=161b22)
-![Student](https://img.shields.io/badge/🎓-Ing.%20Sistemas-58a6ff?style=flat-square&labelColor=161b22)
-
+  <p>
+    <img src="https://img.shields.io/badge/Estado-Disponible-00C9A7?style=for-the-badge&labelColor=161B22" alt="Estado" />
+    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-6E40C9?style=for-the-badge&labelColor=161B22" alt="Ubicación" />
+    <img src="https://img.shields.io/badge/Rol-Estudiante%20de%20Ing.%20en%20Sistemas-58A6FF?style=for-the-badge&labelColor=161B22" alt="Rol" />
+  </p>
 </div>
 
 ---
 
-## 👾 Sobre mí
+## 🧠 Sobre mí
 
-Apasionado por la **inteligencia artificial**, el **desarrollo web** y las **tecnologías emergentes**. Me gusta explorar nuevas herramientas y entender cómo cada línea de código puede cambiar el mundo un poco.
+Soy **Betho**, un creador curioso que disfruta mezclar **inteligencia artificial**, **desarrollo web** y **ciberseguridad** para construir proyectos con identidad propia.
+
+Me gusta aprender haciendo: probar ideas, convertir conceptos en herramientas reales y cuidar tanto la parte visual como la lógica detrás del código.
 
 ```python
-class MrBetho:
-    nombre      = "Betho"
-    rol         = "Estudiante de Ing. en Sistemas"
-    intereses   = ["IA", "Desarrollo Web", "Ciberseguridad", "Open Source"]
-    aprendiendo = ["Node.js", "Vue.js"]
-    meta        = "Construir tecnología con propósito."
+class Betho:
+    nombre = "Betho"
+    rol = "Estudiante de Ingeniería en Sistemas"
+    enfoque = ["IA", "Desarrollo Web", "Ciberseguridad"]
+    mentalidad = ["build", "learn", "improve", "share"]
+    aprendiendo = ["Node.js", "Vue.js", "arquitectura de software"]
+    meta = "Crear tecnología útil, moderna y con propósito."
 ```
 
 ---
 
-## 🛠️ Stack tecnológico
+## ⚡ Mi vibe como developer
+
+- 🤖 Me emociona construir cosas con **IA** y visión por computadora.
+- 🌐 Disfruto crear experiencias **web modernas**, limpias y funcionales.
+- 🔐 Tengo interés por la **ciberseguridad** y entender cómo funcionan realmente los sistemas.
+- 🛠️ Me gusta convertir una idea en un producto que **se vea bien y funcione mejor**.
+- 🚀 Siempre estoy buscando subir de nivel, proyecto a proyecto.
+
+---
+
+## 🧰 Stack tecnológico
 
 <div align="center">
 
-| Lenguajes | Bases de datos |
-|:---------:|:--------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-00758F?style=for-the-badge&logo=mariadb&logoColor=white) |
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Frontend |
-|:--------:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+### Frameworks y librerías
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Bases de datos y herramientas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Aprendiendo actualmente
+## 📌 En lo que estoy ahora
 
-```
-▸ Node.js  ──── [████████░░░░░░░] En progreso
-▸ Vue.js   ──── [██████░░░░░░░░░] En progreso
+```text
+▸ Explorando proyectos con IA aplicada
+▸ Mejorando mis skills en backend con Node.js
+▸ Aprendiendo Vue.js para construir interfaces más dinámicas
+▸ Buscando crear proyectos más completos, visuales y útiles
 ```
 
 ---
 
-## 🔍 Proyecto destacado
+## 🚀 Proyecto destacado
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║         DETECCIÓN DE OBJETOS CON YOLOv5              ║
-╠══════════════════════════════════════════════════════╣
-║  Sistema de IA entrenado para reconocer imágenes     ║
-║  y objetos en tiempo real usando redes neuronales.   ║
-║                                                      ║
-║  Stack: Python · OpenCV · YOLOv5                     ║
-╚══════════════════════════════════════════════════════╝
+```text
+╔════════════════════════════════════════════════════════════╗
+║              DETECCIÓN DE OBJETOS CON YOLOv5              ║
+╠════════════════════════════════════════════════════════════╣
+║ Sistema de visión por computadora para reconocer objetos  ║
+║ en tiempo real mediante redes neuronales y procesamiento  ║
+║ de imágenes.                                              ║
+║                                                            ║
+║ Stack: Python · OpenCV · YOLOv5                           ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> 🧩 Una experiencia increíble ver cómo una red neuronal aprende a interpretar el mundo visual.
+> Uno de los proyectos que más he disfrutado: ver cómo la IA puede interpretar el mundo visual en tiempo real simplemente se siente increíble.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=srexxe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=00c9a7&text_color=8b949e&ring_color=6e40c9" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srexxe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=8b949e" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srexxe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=00c9a7&text_color=8b949e" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srexxe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=8b949e" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srexxe&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=00c9a7&currStreakLabel=c084fc" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srexxe&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=00c9a7&currStreakLabel=c084fc" alt="GitHub streak" />
 </div>
+
+---
+
+## 🎯 Objetivo
+
+Quiero seguir creciendo como desarrollador y construir proyectos que combinen:
+
+- diseño atractivo ✨
+- lógica sólida 🧩
+- utilidad real 🚀
+
+Si algo define mi perfil, es esto: **si puedo imaginarlo, quiero intentar construirlo**.
 
 ---
 
 ## 📫 Conecta conmigo
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/betho25x%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betho25x@gmail.com)
-![Portfolio](https://img.shields.io/badge/Portafolio-Próximamente-6e40c9?style=for-the-badge&logo=firefox&logoColor=white)
-
+  <a href="mailto:betho25x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Portafolio-Pr%C3%B3ximamente-6E40C9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio" />
 </div>
 
 ---
 
 <div align="center">
-
-*`// "Nunca dejes de aprender, el bug de hoy es la lección de mañana." 🧩`*
-
+  <sub><i>"Nunca dejes de aprender; el bug de hoy es la lección de mañana."</i> 🧩</sub>
 </div>
